@@ -1,7 +1,7 @@
-# KESMO Starter Kit
-# This repository is a development template and should not be indexed.
+# KESMO
+# Official website and directory of KESMO web tools.
 
 User-agent: *
-Disallow: /
+Allow: /
 
-Sitemap: https://kesmoworks.github.io/KESMO-Starter-Kit/sitemap.xml
+Sitemap: https://kesmoworks.github.io/sitemap.xml
