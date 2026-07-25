@@ -1,5 +1,5 @@
 /*
-  KESMO Starter Kit
+  KESMO Home
   Version: 1.0.0
 
   Shared page components for KESMO web tools.
@@ -14,9 +14,9 @@
   is available.
 */
 const KESMO_CONFIG = Object.freeze({
-  repositoryName: "KESMO-Starter-Kit",
-  projectName: "KESMO Starter Kit",
-  version: "1.0.0",
+  repositoryName: "kesmoworks.github.io",
+projectName: "KESMO",
+version: "1.0.0",
 
   brandName: "KESMO",
   tagline: "Precision made simple.",
