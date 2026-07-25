@@ -234,6 +234,31 @@ Before releasing a KESMO tool built from this Starter Kit:
 * [ ] Confirm the All KESMO Tools destination is live.
 * [ ] Confirm there are no broken shared navigation links.
 
+## Maintaining the KESMO Home Site
+
+The central KESMO website (`https://kesmoworks.github.io/`) serves as the public directory for all published KESMO tools.
+
+The homepage is intentionally simple and should remain focused on helping visitors discover available tools.
+
+When publishing a new KESMO tool:
+
+- [ ] Publish the new tool.
+- [ ] Verify the tool is working correctly.
+- [ ] Add a new tool card to the KESMO Home page.
+- [ ] Link the card to the published tool.
+- [ ] Write a short, evergreen description.
+- [ ] Verify the new card appears correctly on desktop and mobile.
+
+Tool cards are added manually rather than generated automatically.
+
+This approach:
+
+- Keeps the website fast.
+- Requires no build process or external API.
+- Works without JavaScript.
+- Gives complete control over tool order, names, and descriptions.
+- Keeps the homepage stable and easy to maintain as the KESMO collection grows.
+
 ## Copying the Starter Kit
 
 Follow this checklist every time you create a new KESMO tool.
