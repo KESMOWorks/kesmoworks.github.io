@@ -381,7 +381,7 @@ Every public page should include:
 Search files must remain accurate:
 
 * `robots.txt` allows indexing.
-* `robots.txt` points to the root sitemap.
+* `robots.txt` lists the KESMO Home sitemap and the sitemap for each published KESMO tool.
 * `sitemap.xml` contains only public KESMO Home pages.
 * `404.html` is excluded from the sitemap.
 
