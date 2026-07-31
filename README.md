@@ -460,3 +460,61 @@ A KESMO Home release is complete only when:
 * The repository matches this README.
 * There are no known broken links.
 * The website feels polished, dependable, and ready for visitors.
+
+
+
+KESMO Thumbnail Template Prompt
+
+Use the attached KESMO thumbnail as the design master and preserve its visual identity.
+
+Do not redesign or reinterpret anything.
+
+Keep exactly the same:
+
+overall layout
+blue gradient background
+gold border
+KESMO logo
+logo size and position
+typography style
+colors
+lighting
+shadows
+spacing
+line thickness
+visual hierarchy
+
+Only change the following text:
+
+Main Title:
+Building KESMO
+
+Episode Number:
+#2
+
+Subtitle:
+Building a Break-Even Calculator
+
+Do not add, remove, or move any other elements.
+The finished image should look like the exact same branded thumbnail, with only the episode number and subtitle updated.
+
+
+Step 12: Create your channel trailer plan
+
+Don't record it yet.
+
+I just want you to create a private note (Notepad is fine) with a rough outline.
+
+I'd keep it under 90 seconds.
+
+Something like:
+
+Hi, I'm building KESMO.
+
+KESMO creates free browser-based web tools that solve everyday problems.
+
+On this channel, you'll see every tool built from scratch using HTML, CSS, JavaScript, GitHub Pages, and AI.
+
+You'll also get a behind-the-scenes look at the development of CrownBound.
+
+If you enjoy building software or want to follow the journey of a growing software company, subscribe and join me.
