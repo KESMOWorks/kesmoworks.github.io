@@ -328,7 +328,37 @@ When an improvement benefits more than one KESMO project:
 
 When an improvement is first proven in an existing tool, copy it back into the Starter Kit before treating it as a shared standard.
 
-The repository contents and README files are the development source of truth.
+### Local Development
+
+KESMO Home development is performed locally in Visual Studio Code.
+
+The local repository is the active development workspace. The GitHub repository remains the source of truth for the latest published version, and this README is the development source of truth for the project.
+
+Do not assume that a local change is published until it has been committed, pushed to GitHub, and the GitHub Pages deployment has been verified.
+
+For normal development:
+
+1. Clone the repository from GitHub, or pull the latest changes if it has already been cloned.
+2. Open the local repository in Visual Studio Code.
+3. Make changes locally.
+4. Preview the site with the Microsoft Live Preview extension for Visual Studio Code.
+5. Test the complete change locally before publishing.
+6. Run `git status` and review the modified files.
+7. Stage the completed changes with `git add .`.
+8. Commit the completed work with a clear message using `git commit -m "Relevant update"`.
+9. Push the commit with `git push origin main`.
+10. Run `git status` again and confirm that the working tree is clean.
+11. Verify the GitHub Pages deployment when it becomes available.
+12. Update the README, CHANGELOG, version, release, or tag when appropriate.
+
+The standard Git publishing sequence is:
+
+```bash
+git status
+git add .
+git commit -m "Relevant update"
+git push origin main
+git status
 
 ## Design Standards
 
