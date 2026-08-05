@@ -6,3 +6,5 @@ Allow: /
 
 Sitemap: https://kesmoworks.github.io/sitemap.xml
 Sitemap: https://kesmoworks.github.io/pricing-calculator/sitemap.xml
+Sitemap: https://kesmoworks.github.io/break-even-calculator/sitemap.xml
+Sitemap: https://kesmoworks.github.io/sales-commission-calculator/sitemap.xml

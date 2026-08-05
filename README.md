@@ -45,7 +45,11 @@ The current website includes:
 * Accessibility features
 * GitHub Pages hosting
 
-The KESMO Pricing Calculator is the first tool listed in the public directory.
+The public directory currently includes:
+
+* KESMO Pricing Calculator
+* KESMO Break-Even Calculator
+* KESMO Sales Commission Calculator
 
 ## Purpose
 
@@ -311,6 +315,32 @@ Repository:
 https://github.com/KESMOWorks/pricing-calculator
 ```
 
+### KESMO Break-Even Calculator
+
+The KESMO Break-Even Calculator is the second published KESMO tool.
+
+Public site:
+
+```text
+https://kesmoworks.github.io/break-even-calculator/
+
+Repository:
+
+https://github.com/KESMOWorks/break-even-calculator
+
+
+### KESMO Sales Commission Calculator
+
+The KESMO Sales Commission Calculator is the third published KESMO tool.
+
+Public site:
+
+https://kesmoworks.github.io/sales-commission-calculator/
+
+Repository:
+
+https://github.com/KESMOWorks/sales-commission-calculator
+
 ### Future Tools
 
 Future KESMO tools should be created from the Starter Kit template.
@@ -463,6 +493,8 @@ Included:
 * GitHub Pages deployment
 
 ## Roadmap
+
+* Continue building future tools from the KESMO Starter Kit template.
 
 ### Next
 
